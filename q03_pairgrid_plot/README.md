@@ -22,3 +22,5 @@ Note `Loan_Status` is used to differentiate  between yes and no
 ### Returns :
 
 None
+
+**Please Compare your plot with the pair_grid_q03.png in the images directory** - https://github.com/commit-live-students/seaborn_project/blob/master/images/pair_grid_q03.png
