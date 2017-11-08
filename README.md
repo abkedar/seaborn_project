@@ -22,7 +22,7 @@ We will see in the future how this also helps us in feature-selection.
 - Bar plot
 
 ## What are we going to do in the project?
-*This project challenges you to manipulate large datasets without using conventional programming techniques to extract business insights.*
+- This project challenges you to manipulate large datasets without using conventional programming techniques to extract business insights.
 
 ## How will completing this project help you ?
 - Learn how to observe different pattern and draw conclusions over it.
