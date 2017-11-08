@@ -1,4 +1,4 @@
-# Create a pairgrid plot :
+# Create a Pairgrid plot :
 
 * Lets plot scatter plot for numerical features
 
