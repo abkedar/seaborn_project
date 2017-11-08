@@ -21,3 +21,6 @@
 ### Returns:
 
 None
+
+
+**Please Compare your plot with the his_residuals.png in the images directory** - https://github.com/commit-live-students/seaborn_project/blob/master/images/violin_plot_q01.png
