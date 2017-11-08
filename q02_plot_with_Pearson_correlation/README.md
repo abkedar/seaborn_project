@@ -23,3 +23,7 @@
 ### Return:
 
 None
+
+**Please Compare your plot with the jointplot_q02.png in the images directory** -https://github.com/commit-live-students/seaborn_project/blob/master/images/jointplot_q02.png
+
+**And also compare your another plot with the jointplot2_q02.png in the images directory** - https://github.com/commit-live-students/seaborn_project/blob/master/images/jointplot2_q02.png
