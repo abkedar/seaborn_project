@@ -33,3 +33,5 @@ We will see in the future how this also helps us in feature-selection.
 For this exercise, we will use the House Prices dataset, which we have already discussed in the session. The dataset contains SalePrice of around 1400 houses. The dataset is a part of a larger dataset.
 You can read about the dataset description ![here](https://github.com/MayureshShilotri/GA_extended_content/blob/master/Data/house_pricing/data_description.txt).
 
+
+Note :- include the line plt.switch_backend('agg') in every build.py
